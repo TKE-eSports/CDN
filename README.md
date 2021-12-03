@@ -1,6 +1,12 @@
 [![Hits per month](https://data.jsdelivr.com/v1/package/gh/TKE-eSports/CDN/badge)](https://www.jsdelivr.com/package/gh/TKE-eSports/CDN)
 
-This repo contains assets for jsDelivr CDN
+This repo contains assets for TKE CDN.
+
+The assets can be accessed via the following URLs:
+
+● https://cdn.tke-esports.tk
+
+● https://www.jsdelivr.com/package/gh/TKE-eSports/CDN (might be outdated)
 
 ---
 

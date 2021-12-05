@@ -1,4 +1,4 @@
-[![Hits per month](https://data.jsdelivr.com/v1/package/gh/TKE-eSports/CDN/badge)](https://www.jsdelivr.com/package/gh/TKE-eSports/CDN)
+![CDN Status](https://api.tke-esports.tk/api/website/status?url=https://cdn.tke-esports.tk)
 
 This repo contains assets for TKE CDN.
 
